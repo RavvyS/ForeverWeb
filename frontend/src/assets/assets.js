@@ -7,6 +7,10 @@ import menu_icon from ".//menu.png";
 import dropdown_icon from ".//arrow.png";
 import hero_img from ".//hero_right.png";
 
+import exchange_icon from ".//exchange.png";
+import return_icon from ".//return.png";
+import support_icon from ".//support.png";
+
 import p_img1 from "./p_1.png";
 import p_img2 from "./p_2.png";
 import p_img3 from "./p_img1.png";
@@ -37,7 +41,10 @@ export const assets = {
   cart_icon,
   menu_icon,
   dropdown_icon,
-  hero_img
+  hero_img,
+  exchange_icon,
+  return_icon,
+  support_icon
 
 };
 
